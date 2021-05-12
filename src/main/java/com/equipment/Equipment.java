@@ -1,5 +1,6 @@
 package com.equipment;
 
+import com.Monster.MonsterModel;
 import com.model.HeroModel;
 
 public abstract class Equipment {
